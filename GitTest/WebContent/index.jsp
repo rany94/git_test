@@ -24,12 +24,14 @@ margin-left: 230px;}
 <body>
 <header>
 <h2>쇼핑몰 회원관리 ver 1.0</h2>
+<nav>
 	<ul>
 	<li>회원등록</li>
 	<li>회원목록조회/수정</li>
 	<li>회원배송조회</li>
 	<li>홈으로</li>
 	</ul>
+<nav/>
 </header>
 <section>
 <h1>회원목록조회/수정</h1>
